@@ -15,7 +15,7 @@ module.exports = function(app) {
 
 		var matchName = '';
 		var matchImage = '';
-		var totalDifference = 1; 
+		var totalDifference = 100;
 
 		for (var i = 0; i < friends.length; i++) {
 
